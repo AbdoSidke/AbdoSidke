@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Abdalla Sedki 👋
 
-<!--
-**AbdoSidke/AbdoSidke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Binary Exploitation | Pwn | Low-Level Security
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about understanding software vulnerabilities at the binary and memory levels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is building strong foundations in Binary Exploitation, Reverse Engineering, and Exploit Development through hands-on practice and technical research.
+
+🔬 Current Learning Focus
+
+- Binary Exploitation & Pwn
+- C / C++ Programming
+- x86-64 Assembly
+- Computer Architecture
+- Memory Management
+- Data Flow & Control Flow Analysis
+- Debugging and Reverse Engineering
+
+🛠️ Areas of Interest
+
+- Memory Corruption
+- Stack-Based Vulnerabilities
+- Control Flow Hijacking
+- Vulnerability Research
+- Exploit Development
+
+🎯 My Goal
+
+To develop strong low-level security skills, understand vulnerabilities from their root causes, and build practical knowledge through research, experimentation, and documented projects.
+
+📂 Repositories
+
+More technical projects, experiments, and write-ups coming soon.
+
+---
+
+Learning by understanding. Improving through practice. 
